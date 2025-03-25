@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TrafficSignDetection</string>
+    <string name="login_text_view">Login</string>
+    <string name="email_text_view">Email</string>
+    <string name="password_text_view">Password</string>
 </resources>
